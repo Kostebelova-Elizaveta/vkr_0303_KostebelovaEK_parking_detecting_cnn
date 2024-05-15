@@ -1,0 +1,24 @@
+<annotation>
+	<folder></folder>
+	<filename>21.png</filename>
+	<path>21.png</path>
+	<size>
+		<width>1100</width>
+		<height>1100</height>
+		<depth>24</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>722</xmin>
+			<xmax>918</xmax>
+			<ymin>507</ymin>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>

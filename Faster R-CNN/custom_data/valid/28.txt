@@ -1,0 +1,24 @@
+<annotation>
+	<folder></folder>
+	<filename>28.png</filename>
+	<path>28.png</path>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>24</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>256</xmin>
+			<xmax>355</xmax>
+			<ymin>475</ymin>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

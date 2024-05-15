@@ -1,0 +1,11 @@
+<annotation>
+	<folder></folder>
+	<filename>14.png</filename>
+	<path>14.png</path>
+	<size>
+		<width>1920</width>
+		<height>1920</height>
+		<depth>24</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
